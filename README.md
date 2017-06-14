@@ -2,7 +2,7 @@
 Magento 2 widget for displaying a grid/list of categories with or without an image
 
 
-<strongFeatures</strong>
+<strong>Features</strong>
 <ul>
 <li>Show with images</li>
 </ul>
